@@ -22,7 +22,7 @@ theme = "LoveIt"
     pre = ""
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "文章"
+    name = "归档"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = ""
@@ -39,8 +39,16 @@ theme = "LoveIt"
     identifier = "categories"
     pre = ""
     post = ""
-    name = "分类"
-    url = "/categories/"
+    name = "算法"
+    url = "/algorithm/"
+    title = ""
+    weight = 3
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "go"
+    url = "/golang/"
     title = ""
     weight = 3
 
