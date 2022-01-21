@@ -36,7 +36,7 @@ theme = "LoveIt"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "algorithm"
     pre = ""
     post = ""
     name = "算法"
@@ -44,13 +44,13 @@ theme = "LoveIt"
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "categories"
+    identifier = "golang"
     pre = ""
     post = ""
     name = "go"
     url = "/golang/"
     title = ""
-    weight = 3
+    weight = 4
 
 # Hugo 解析文档的配置
 [markup]
